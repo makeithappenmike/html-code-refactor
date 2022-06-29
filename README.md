@@ -10,4 +10,15 @@ This project is all about accessibility. It's a focus on ensuring that your app/
 
 This was a great reference: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
-We were given an existing site and asked to improve accessbility.
+Here's what the code does:
+
+```Index.html``` houses the structure of the site.
+```style.css``` handles the styling.
+
+To run/edit:
+
+- Clone repo / branch
+- Run locally for testing
+- Push and create PR
+
+Created by Michael Martens
