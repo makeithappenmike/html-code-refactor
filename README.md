@@ -18,3 +18,7 @@ Here's what the code does:
 View the site here: https://makeithappenmike.github.io/module-1-challenge/
 
 Contributions by Michael Martens
+
+Screenshot:
+
+<img src="assets/images/screenshot.png" alt="screenshot of work" />
