@@ -15,10 +15,6 @@ Here's what the code does:
 ```Index.html``` houses the structure of the site.
 ```style.css``` handles the styling.
 
-To run/edit:
+View the site here: https://makeithappenmike.github.io/module-1-challenge/
 
-- Clone repo / branch
-- Run locally for testing
-- Push and create PR
-
-Created by Michael Martens
+Contributions by Michael Martens
